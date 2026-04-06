@@ -1,1 +1,1 @@
-# vibez
+# vibe
